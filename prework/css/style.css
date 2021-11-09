@@ -1,0 +1,149 @@
+p{
+    font-size: 48px;
+}
+
+ul{
+    font-style: courier;
+    text-align: center;
+    
+}
+li{
+    font-style: oblique;
+    text-align: center;
+    font-size: 32px;
+}
+body{
+    background-color: rgb(213, 213, 230) ;
+    color: rgb(14, 10, 15);
+}
+a{
+    color:rgb(99, 8, 99) ;
+}
+.h3,.h1 {
+    text-align: center;
+    color: darkred;
+    background-color: darkolivegreen;
+    padding: 10px;
+    border: 10px solid darkred;
+    overflow: hidden;
+    display: block;
+    border-radius: 20px;
+    position: relative
+    
+    
+}
+#p{
+    color: rgb(7, 6, 6);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#div1{
+    background-color: darkslateblue;
+    margin: 20px;
+    padding: 20px;
+}
+#div2{
+    background-color: teal;
+    margin: 20px;
+    padding: 20px;
+}
+#div3{
+    display: flex;
+    background-color: tomato;
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#div4{
+    display: block;
+    background-color: rgb(10, 124, 113);
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+    border-radius: 50%;
+}
+#div1, #div2, #div3, #div4, #div5 
+{
+    border: solid;
+    border-radius: 25px;
+}
+form{
+    padding: 20px;
+    background-color: rgb(28, 58, 153);
+    font-style: italic;
+    border-style: solid;
+    font-weight: 800px;
+    border-radius: 25px;
+}
+input[type=button]{
+    color: black;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 25px;
+
+}
+.nav{
+    display:inline-block;
+    padding: 20px;
+    font-style: bold;
+    font-size: small;
+    background-color: rgb(231, 247, 9);
+    overflow: hidden;
+    border-radius: 25px;
+    box-shadow: rgb(17, 16, 17);
+    position: fixed;
+    border: 10px solid purple;
+    
+    
+}
+img{
+    border: 10px solid rgb(15, 15, 15);
+    
+    
+}
+.center{
+    display: block;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+    border-radius: 10%;
+}
+.pizzapic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 20px;
+    }
+a:hover{
+    background-color: deepskyblue;
+}
+.images-container{
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+#pizzadiv{
+    background-color: bisque;
+    border: black solid 5px;
+    margin: 10px;
+    padding: 10px;
+}
+*{
+    border-radius: 25px;
+
+}
+#div5{
+    margin: 10px;
+    padding: 10px;
+    background-color: greenyellow;
+}
+
+
+
+
+
